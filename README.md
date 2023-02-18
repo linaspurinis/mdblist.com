@@ -1,2 +1,2 @@
 # mdblist.com
-mdblist.com new feature requests tracker
+mdblist.com new support and feature requests tracker
